@@ -1,0 +1,33 @@
+[{
+  "id": "one",
+  "occupation": "architect",
+  "address": "street: '123 Main St'"
+    
+},
+{
+  "id": "two",
+  "occupation": "engg",
+  "address": "street: '123 Main St'"
+    
+},
+{
+  "id": "three",
+  "occupation": "engineer",
+  "address":"173 Main St"
+  },
+  {
+  "id": "five",
+  "occupation": "Driver",
+  "address":"12rt3 Main St"
+  },
+  {
+  "id": "six",
+  "occupation": "police",
+  "address": "123 hyum St"
+  },
+ {
+  "id": "two",
+  "occupation": "farmer",
+  "address": "Narendernagar Main St"
+  }
+ ]
